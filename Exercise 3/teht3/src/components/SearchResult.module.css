@@ -1,0 +1,36 @@
+.nimi
+{
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  font-size: 18px;
+  width: 60%;
+}
+.kuva
+{
+  width: 33.33%;
+  box-sizing: border-box;
+  padding: 30px;
+
+}
+.hinta1{
+font-weight: 500;
+font-size: 50px;
+margin-left: 5px;
+
+}
+
+.hinta2{
+  font-weight: 300;
+  font-size: 30px;
+  margin-left: 55px;
+  margin-top: -55px;
+  }
+
+
+  .hinta3{
+    font-weight: 300;
+    font-size: 30px;
+    margin-left: 85px;
+    margin-top: -55px;
+    }

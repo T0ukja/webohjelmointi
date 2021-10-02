@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Apple Pencil (2nd Generation)",
+      "star": 4,
+      "price": 11.37,
+      "image": "pencil.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Seagate Portable 2TB External Hard Drive Portable HDD – USB 3.0 for PC, Mac, PS4, & Xbox - 1-Year Rescue Service (STGX2000400)",
+      "star": 2,
+      "price": 12.19,
+      "image": "seagate.jpg"
+    },
+    {
+      "id": 3,
+      "star": 5,
+      "name": "Roku Express 4K+ 2021 | Streaming Media Player HD/4K/HDR with Smooth Wireless Streaming and Roku Voice Remote with TV Controls, Includes Premium HDMI Cable ",
+      "price": 34.99,
+      "image": "kaukkari.jpg"
+    } ,
+    {
+      "id": 4,
+      "star": 5,
+      "name": "2020 Apple MacBook Air Laptop: Apple M1 Chip, 13” Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Gold",
+      "price": 999.99,
+      "image": "macbook.jpg"
+    }
+    ,
+    {
+      "id": 5,
+      "star": 4,
+      "name": "TP-Link AC750 WiFi Extender (RE230), Covers Up to 1200 Sq.ft and 20 Devices, Dual Band WiFi Range Extender, WiFi Booster to Extend Range of WiFi Internet Connection, OneMesh Compatible ",
+      "price": 26.99,
+      "image": "tplink.jpg"
+    }
+    ,
+    {
+      "id": 6,
+      "star": 4,
+      "name": "Logitech MK270 Wireless Keyboard and Mouse Combo - Keyboard and Mouse Included, Long Battery Life",
+      "price": 54.99,
+      "image": "keyboard.jpg"
+    }
+    ,
+    {
+      "id": 7,
+      "star": 4,
+      "name": "Roku Streaming Stick+ | HD/4K/HDR Streaming Device with Long-range Wireless and Roku Voice Remote with TV Controls ",
+      "price": 39.99,
+      "image": "roku streaming.jpg"
+    }
+    ,
+    {
+      "id": 8,
+      "star": 5,
+      "name": "Logitech C920x HD Pro Webcam, Full HD 1080p/30fps Video Calling, Clear Stereo Audio, HD Light Correction, Works with Skype, Zoom, FaceTime, Hangouts, PC/Mac/Laptop/Macbook/Tablet - Black ",
+      "price": 60.99,
+      "image": "webcamera.jpg"
+    }
+
+    ,
+    {
+      "id": 9,
+      "star": 5,
+      "name": "SanDisk 128GB Extreme microSDXC UHS-I Memory Card with Adapter - Up to 160MB/s, C10, U3, V30, 4K, A2, Micro SD - SDSQXA1-128G-GN6MA ",
+      "price": 21.99,
+      "image": "muisti.jpg"
+    }
+    
+  ]
+}
